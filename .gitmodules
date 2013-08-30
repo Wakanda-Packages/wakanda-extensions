@@ -1,0 +1,3 @@
+[submodule "SolutionsBrowser"]
+	path = SolutionsBrowser
+	url = https://github.com/hredwan/SolutionsBrowser.git
