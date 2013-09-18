@@ -27,7 +27,8 @@ We will review your extension before accepting it. To be accepted, your extensio
 * a "readme.md" file with basic explanations about your extension.
 * a "license" file or section in the readme file associated with your extension.
 
-### Disclosure
+### Disclosure##
+
 Each extension is maintained by and remains the property of its owner. Its presence on this list does not imply an endorsement by Wakanda.
 
 Wakanda reserves the right to bundle widgets that are significant for the community directly within its products provided that the license permits it and that the owner of the extension is in agreement.
