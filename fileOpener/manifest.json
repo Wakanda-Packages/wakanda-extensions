@@ -1,0 +1,26 @@
+{
+    "extension": 
+    {
+        "name": "fileOpener",
+        "version": "1.0.0",
+        "description": "Opens files from the Studio explorer in their system-default apps.",
+        "icon": "fileOpener.png",
+        "senders": [
+                    {
+                        "location": "studioToolbar", 
+						"actionName": "openFile"
+                    },
+					{
+                        "location": "solutionExplorerTreeViewContextMenu", 
+						"menu":	[{ "actionName": "openFile" }]
+                    }
+        ],
+        "actions": [
+                    {
+                        "name": "openFile",
+                        "title": "Open File"
+                    }
+        ],
+        "lifetime": "action_lifetime"
+    }
+}
