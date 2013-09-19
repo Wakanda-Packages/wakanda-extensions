@@ -1,3 +1,6 @@
 [submodule "SolutionsBrowser"]
 	path = SolutionsBrowser
 	url = https://github.com/hredwan/SolutionsBrowser
+[submodule "fileOpener"]
+	path = fileOpener
+	url = git://github.com/jeffgrann/fileOpener.git
