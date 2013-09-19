@@ -1,0 +1,18 @@
+{
+    "extension": 
+    {
+        "name": "CRLF",
+        "version": "1.0.0",
+        "description": "Automatically makes sure saved javascript files use CR/LF to end lines.",
+        "icon": "CRLF.png",
+        "actions": [
+					{
+						"name": "onFileSave",
+						"title": "Triggered by onSave",
+						"trigger": [{"event": "onSave"}],
+                        "targets" : [{"uti":"com.netscape.javascript-source"}]
+					}
+        ],
+        "lifetime": "action_lifetime"
+    }
+}

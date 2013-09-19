@@ -1,0 +1,18 @@
+{
+    "extension": 
+    {
+        "name": "mdComments",
+        "version": "1.0.0",
+        "description": "Creates markdown files from Javascript comments.",
+        "icon": "markdownMark.png",
+        "actions": [
+					{
+						"name": "onFileSave",
+						"title": "Triggered by onSave",
+						"trigger": [{"event": "onSave"}],
+                        "targets" : [{"uti":"com.netscape.javascript-source"}]
+					}
+        ],
+        "lifetime": "action_lifetime"
+    }
+}
