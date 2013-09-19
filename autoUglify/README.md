@@ -1,5 +1,5 @@
-Auto Uglify Wakanda Studio Extension
-====================================
+autoUglify Wakanda Studio Extension
+===================================
 
 When a Javascript file is saved in Wakanda Studio, this extension automatically creates a minified version of it named *js-file-name*.min.js. Uglify is used to create the minified version. See the Uglify standard Studio extension for more information.
 

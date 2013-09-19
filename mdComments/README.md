@@ -1,5 +1,5 @@
-Markdown Wakanda Studio Extension
-=================================
+mdComments Wakanda Studio Extension
+===================================
 
 Allows you to intersperse comments containing markdown documentation in your Javascript code. When a Javascript file is saved in Wakanda Studio, a corresponding markdown file is automatically created from the markdown comments named *js-file-name*.js.md. To facilitate debugging while keeping file sizes down, another corresponding file is created named *js-file-name*.no-md.js with all markdown comments removed. Original Javascript files are never modified. No files are generated when saving a Javascript file containing no markdown comments.
 
