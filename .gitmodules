@@ -4,3 +4,6 @@
 [submodule "fileOpener"]
 	path = fileOpener
 	url = git://github.com/jeffgrann/fileOpener.git
+[submodule "mdComments"]
+	path = mdComments
+	url = git://github.com/jeffgrann/mdComments.git
