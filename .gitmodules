@@ -7,3 +7,6 @@
 [submodule "mdComments"]
 	path = mdComments
 	url = git://github.com/jeffgrann/mdComments.git
+[submodule "autoUglify"]
+	path = autoUglify
+	url = git://github.com/jeffgrann/autoUglify.git
