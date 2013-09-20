@@ -4,3 +4,12 @@
 [submodule "fileOpener"]
 	path = fileOpener
 	url = git://github.com/jeffgrann/fileOpener.git
+[submodule "mdComments"]
+	path = mdComments
+	url = git://github.com/jeffgrann/mdComments.git
+[submodule "autoUglify"]
+	path = autoUglify
+	url = git://github.com/jeffgrann/autoUglify.git
+[submodule "CRLF"]
+	path = CRLF
+	url = git://github.com/jeffgrann/CRLF.git
