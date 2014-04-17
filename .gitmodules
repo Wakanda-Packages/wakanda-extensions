@@ -13,3 +13,6 @@
 [submodule "CRLF"]
 	path = CRLF
 	url = git://github.com/jeffgrann/CRLF.git
+[submodule "Console"]
+	path = Console
+	url = https://github.com/FrancoisMarchal/Console.git
