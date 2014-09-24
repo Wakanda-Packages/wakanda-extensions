@@ -16,3 +16,6 @@
 [submodule "Console"]
 	path = Console
 	url = https://github.com/FrancoisMarchal/Console.git
+[submodule "Addons"]
+	path = Addons
+	url = https://github.com/Wakanda/Addons.git
