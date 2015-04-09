@@ -19,3 +19,6 @@
 [submodule "Addons"]
 	path = Addons
 	url = https://github.com/Wakanda/Addons.git
+[submodule "bootstrap-theme-converter"]
+	path = bootstrap-theme-converter
+	url = https://github.com/Wakanda/bootstrap-theme-converter.git
