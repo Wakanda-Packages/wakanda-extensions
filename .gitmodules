@@ -22,3 +22,6 @@
 [submodule "bootstrap-theme-converter"]
 	path = bootstrap-theme-converter
 	url = https://github.com/Wakanda/bootstrap-theme-converter.git
+[submodule "UnitTest"]
+	path = UnitTest
+	url = https://github.com/SebCourvoisier4D/UnitTest
