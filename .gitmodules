@@ -34,3 +34,6 @@
 [submodule "ModelEditorSnippets"]
 	path = ModelEditorSnippets
 	url = https://github.com/Wakanda/ModelEditorSnippets.git
+[submodule "Console"]
+	path = Console
+	url = https://github.com/Wakanda/Console.git
