@@ -25,3 +25,9 @@
 [submodule "UnitTest"]
 	path = UnitTest
 	url = https://github.com/SebCourvoisier4D/UnitTest
+[submodule "uglify"]
+	path = uglify
+	url = https://github.com/Wakanda/uglify.git
+[submodule "JSMin"]
+	path = JSMin
+	url = https://github.com/Wakanda/JSMin.git
