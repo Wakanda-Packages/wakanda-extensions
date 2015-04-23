@@ -31,3 +31,9 @@
 [submodule "JSMin"]
 	path = JSMin
 	url = https://github.com/Wakanda/JSMin.git
+[submodule "MediaLibrary"]
+	path = MediaLibrary
+	url = https://github.com/Wakanda/MediaLibrary.git
+[submodule "ModelEditorSnippets"]
+	path = ModelEditorSnippets
+	url = https://github.com/Wakanda/ModelEditorSnippets.git
