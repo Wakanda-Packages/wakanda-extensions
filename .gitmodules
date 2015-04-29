@@ -37,3 +37,12 @@
 [submodule "Console"]
 	path = Console
 	url = https://github.com/Wakanda/Console.git
+[submodule "Beautifier"]
+	path = Beautifier
+	url = https://github.com/Wakanda/Beautifier.git
+[submodule "snippets"]
+	path = snippets
+	url = https://github.com/Wakanda/snippets.git
+[submodule "JSLint"]
+	path = JSLint
+	url = https://github.com/Wakanda/JSLint.git
