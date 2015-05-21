@@ -48,4 +48,4 @@
 	url = https://github.com/Wakanda/JSLint.git
 [submodule "Todos"]
 	path = Todos
-	url = https://github.com/welkaddouri/Todos.git
+	url = https://github.com/welkaddouri/Todos
