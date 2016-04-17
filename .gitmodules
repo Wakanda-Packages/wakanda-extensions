@@ -49,3 +49,6 @@
 [submodule "Todos"]
 	path = Todos
 	url = https://github.com/welkaddouri/Todos
+[submodule "StackoverflowSearch"]
+	path = StackoverflowSearch
+	url = https://intissarMez@github.com/intissarMez/Stackoverflow-Search.git
