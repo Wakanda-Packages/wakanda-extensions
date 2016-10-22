@@ -49,3 +49,6 @@
 [submodule "Todos"]
 	path = Todos
 	url = https://github.com/welkaddouri/Todos
+[submodule "commands"]
+	path = commands
+	url = https://github.com/Wakanda/commands.git
